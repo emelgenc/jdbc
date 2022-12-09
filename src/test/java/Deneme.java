@@ -11,5 +11,8 @@ public class Deneme {
         Statement st = con.createStatement();
         System.out.println("merhaba");
 
+
+        System.out.println("oylesine");
+
     }
 }
